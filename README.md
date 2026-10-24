@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Jai Surya Sambari — AI, Robotics, Building">
+</p>
+
 # Hey, I'm Jai Surya 👋
 
 ### AI • Robotics • Building
