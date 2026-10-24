@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Jai Surya 👋
 
-<!--
-**SambariJaiSurya/SambariJaiSurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI • Robotics • Building
 
-Here are some ideas to get you started:
+I'm a curious builder who enjoys turning ideas into real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Building robotics and electronics projects
+- 🧠 Exploring artificial intelligence and local AI models
+- 💻 Turning ideas into apps and web projects with AI-assisted development
+- ⚡ Experimenting, learning, and bringing ambitious ideas to life
+
+## 🔧 What I Do
+
+- **Robotics & Hardware:** Microcontrollers, sensors, electronics, and experimental builds
+- **AI & Software:** Building useful tools and applications with AI-assisted coding
+- **Experimentation:** Testing ideas, solving problems, and learning by making things
+
+> I believe in learning by building and using the tools available to turn ideas into reality.
+
+🚀 Always experimenting. Always building.
